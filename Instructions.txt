@@ -1,4 +1,5 @@
 NSTRUCTIONS: Download forge 1.8.9 (modloader) if you haven't done it yet. After you downloaded forge, download the mod, put it in your mods folder (%appdata%/.minecraft/mods), then start the game! Join Hypixel.net, then head to your island.  There, create a chest and put the item you want to dupe in it. Then, you will see the button (on the right side) which says: "dupe start". Press it, then rejoin the server, open the chest once again, and you will see 2 items (previously only 1 item) in the chest.
  
-
 HOW IT WORKS: The mod uses packet modification, lags the server when the button "start dupe", gets pressed, and forces the server to load a backup. However, the backup contains the original items too, and therefore it gets duplicated! It makes the server think that there were 2 items in the chest when in reality, it was only one!
+
+Have fun using it!
